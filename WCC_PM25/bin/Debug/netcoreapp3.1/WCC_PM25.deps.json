@@ -8,6 +8,7 @@
       "TRACE",
       "DEBUG",
       "NETCOREAPP",
+<<<<<<< HEAD
       "NETCOREAPP3_1",
       "NETCOREAPP1_0_OR_GREATER",
       "NETCOREAPP1_1_OR_GREATER",
@@ -18,6 +19,11 @@
       "NETCOREAPP3_1_OR_GREATER"
     ],
     "languageVersion": "8.0",
+=======
+      "NETCOREAPP3_1"
+    ],
+    "languageVersion": "",
+>>>>>>> dda84c0366552e92deabc277c7cbc790d6f769f5
     "platform": "",
     "allowUnsafe": false,
     "warningsAsErrors": false,
