@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mU+UA3zBqEX9XlXlVcl7oqQAJQrK+XDwKcXm+l04ZKmEsYLQLBWVvYpAuWww4yIaKvqjd130CMkSrpzjOYGwPQ==",
+  "dgSpecHash": "fzk9JGzPcoVFeLmHFT03bbwLkn83NT7O/HIBxlGTX1xbwQy/xAnNJU3oalKD4Aj0SRvOZtWANl3h4yubRnpmPg==",
   "success": true,
-  "projectFilePath": "/Users/yanru/Projects/WCC_PM25/WCC_PM25/WCC_PM25.csproj",
+  "projectFilePath": "/Users/yanru/Desktop/WCC_PM25/WCC_PM25/WCC_PM25.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file /Users/yanru/Projects/WCC_PM25/WCC_PM25/obj/project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

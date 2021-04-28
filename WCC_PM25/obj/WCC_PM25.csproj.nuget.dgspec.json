@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/yanru/Projects/WCC_PM25/WCC_PM25/WCC_PM25.csproj": {}
+    "/Users/yanru/Desktop/WCC_PM25/WCC_PM25/WCC_PM25.csproj": {}
   },
   "projects": {
-    "/Users/yanru/Projects/WCC_PM25/WCC_PM25/WCC_PM25.csproj": {
+    "/Users/yanru/Desktop/WCC_PM25/WCC_PM25/WCC_PM25.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yanru/Projects/WCC_PM25/WCC_PM25/WCC_PM25.csproj",
+        "projectUniqueName": "/Users/yanru/Desktop/WCC_PM25/WCC_PM25/WCC_PM25.csproj",
         "projectName": "WCC_PM25",
-        "projectPath": "/Users/yanru/Projects/WCC_PM25/WCC_PM25/WCC_PM25.csproj",
+        "projectPath": "/Users/yanru/Desktop/WCC_PM25/WCC_PM25/WCC_PM25.csproj",
         "packagesPath": "/Users/yanru/.nuget/packages/",
-        "outputPath": "/Users/yanru/Projects/WCC_PM25/WCC_PM25/obj/",
+        "outputPath": "/Users/yanru/Desktop/WCC_PM25/WCC_PM25/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/yanru/.config/NuGet/NuGet.Config"
