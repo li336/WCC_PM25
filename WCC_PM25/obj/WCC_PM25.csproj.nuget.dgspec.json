@@ -1,31 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\robbie.hu\\source\\repos\\WCC_PM25\\WCC_PM25\\WCC_PM25.csproj": {}
+    "/Users/yanru/Projects/WCC_PM25/WCC_PM25/WCC_PM25.csproj": {}
   },
   "projects": {
-    "C:\\Users\\robbie.hu\\source\\repos\\WCC_PM25\\WCC_PM25\\WCC_PM25.csproj": {
+    "/Users/yanru/Projects/WCC_PM25/WCC_PM25/WCC_PM25.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\robbie.hu\\source\\repos\\WCC_PM25\\WCC_PM25\\WCC_PM25.csproj",
+        "projectUniqueName": "/Users/yanru/Projects/WCC_PM25/WCC_PM25/WCC_PM25.csproj",
         "projectName": "WCC_PM25",
-        "projectPath": "C:\\Users\\robbie.hu\\source\\repos\\WCC_PM25\\WCC_PM25\\WCC_PM25.csproj",
-        "packagesPath": "C:\\Users\\robbie.hu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\robbie.hu\\source\\repos\\WCC_PM25\\WCC_PM25\\obj\\",
+        "projectPath": "/Users/yanru/Projects/WCC_PM25/WCC_PM25/WCC_PM25.csproj",
+        "packagesPath": "/Users/yanru/.nuget/packages/",
+        "outputPath": "/Users/yanru/Projects/WCC_PM25/WCC_PM25/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\robbie.hu\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/yanru/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +36,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }
