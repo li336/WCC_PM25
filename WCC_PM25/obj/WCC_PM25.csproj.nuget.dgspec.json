@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/Users/lilyolson/Desktop/WCC_PM25/WCC_PM25/WCC_PM25.csproj": {}
+    "/Users/cyr/Desktop/WCC_PM25/WCC_PM25/WCC_PM25.csproj": {}
   },
   "projects": {
-    "/Users/lilyolson/Desktop/WCC_PM25/WCC_PM25/WCC_PM25.csproj": {
+    "/Users/cyr/Desktop/WCC_PM25/WCC_PM25/WCC_PM25.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lilyolson/Desktop/WCC_PM25/WCC_PM25/WCC_PM25.csproj",
+        "projectUniqueName": "/Users/cyr/Desktop/WCC_PM25/WCC_PM25/WCC_PM25.csproj",
         "projectName": "WCC_PM25",
-        "projectPath": "/Users/lilyolson/Desktop/WCC_PM25/WCC_PM25/WCC_PM25.csproj",
-        "packagesPath": "/Users/lilyolson/.nuget/packages/",
-        "outputPath": "/Users/lilyolson/Desktop/WCC_PM25/WCC_PM25/obj/",
+        "projectPath": "/Users/cyr/Desktop/WCC_PM25/WCC_PM25/WCC_PM25.csproj",
+        "packagesPath": "/Users/cyr/.nuget/packages/",
+        "outputPath": "/Users/cyr/Desktop/WCC_PM25/WCC_PM25/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/lilyolson/.config/NuGet/NuGet.Config"
+          "/Users/cyr/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net5.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -35,8 +35,14 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
