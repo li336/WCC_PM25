@@ -1,7 +1,6 @@
 C:\Users\robbie.hu\source\repos\WCC_PM25\WCC_PM25\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\robbie.hu\source\repos\WCC_PM25\WCC_PM25\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\robbie.hu\source\repos\WCC_PM25\WCC_PM25\bin\Debug\netcoreapp3.1\mono_crash.11a6748113.0.json
-C:\Users\robbie.hu\source\repos\WCC_PM25\WCC_PM25\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\robbie.hu\source\repos\WCC_PM25\WCC_PM25\bin\Debug\netcoreapp3.1\WCC_PM25.exe
 C:\Users\robbie.hu\source\repos\WCC_PM25\WCC_PM25\bin\Debug\netcoreapp3.1\WCC_PM25.deps.json
 C:\Users\robbie.hu\source\repos\WCC_PM25\WCC_PM25\bin\Debug\netcoreapp3.1\WCC_PM25.runtimeconfig.json
@@ -36,3 +35,5 @@ C:\Users\robbie.hu\source\repos\WCC_PM25\WCC_PM25\obj\Debug\netcoreapp3.1\WCC_PM
 C:\Users\robbie.hu\source\repos\WCC_PM25\WCC_PM25\obj\Debug\netcoreapp3.1\WCC_PM25.pdb
 C:\Users\robbie.hu\source\repos\WCC_PM25\WCC_PM25\obj\Debug\netcoreapp3.1\WCC_PM25.genruntimeconfig.cache
 C:\Users\robbie.hu\source\repos\WCC_PM25\WCC_PM25\obj\Debug\netcoreapp3.1\WCC_PM25.csproj.CopyComplete
+C:\Users\robbie.hu\source\repos\WCC_PM25\WCC_PM25\obj\Debug\netcoreapp3.1\scopedcss\bundle\WCC_PM25.styles.css
+C:\Users\robbie.hu\source\repos\WCC_PM25\WCC_PM25\obj\Debug\netcoreapp3.1\Razor\Views\Home\Default.cshtml.g.cs
