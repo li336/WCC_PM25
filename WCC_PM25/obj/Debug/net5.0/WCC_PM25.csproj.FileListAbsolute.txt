@@ -357,3 +357,4 @@ C:\Users\robbie.hu\source\repos\WCC_PM25\WCC_PM25\bin\Debug\net5.0\tr\Microsoft.
 C:\Users\robbie.hu\source\repos\WCC_PM25\WCC_PM25\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\robbie.hu\source\repos\WCC_PM25\WCC_PM25\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\robbie.hu\source\repos\WCC_PM25\WCC_PM25\obj\Debug\net5.0\WCC_PM25.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\robbie.hu\Source\Repos\WCC_PM25\WCC_PM25\obj\Debug\net5.0\Razor\Views\Common\Login.cshtml.g.cs
