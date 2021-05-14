@@ -7,6 +7,7 @@
   <ItemGroup>
     <Folder Include="Requirements\" />
     <Folder Include="wwwroot\Images\" />
+    <Folder Include="Views\Common\" />
   </ItemGroup>
 
   <ItemGroup>

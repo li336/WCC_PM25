@@ -1,0 +1,36 @@
+﻿@{
+    ViewData["Title"] = "Login";
+    ViewData["AppClass"] = "app-full-height app-without-header app-full-width";
+    ViewData["AppWithoutHeader"] = true;
+    ViewData["AppWithoutSidebar"] = true;
+    ViewData["AppWithoutContainer"] = true;
+    ViewData["AppWithoutBottom"] = true;
+}
+@*@model EDU365.Models.UserVM*@
+<!-- BEGIN login -->
+<form asp-controller="Common" asp-action="Login" method="post" name="login_form">
+    <div class="login">
+        <!-- BEGIN login-content -->
+        <div class="login-contenx">
+            <div class="form-group  p-2 text-center">
+                <img src="~/images/logo.png" style="width:260px;">
+            </div>
+            <div class="form-group p-2 text-center">
+                <label style="font-size:2em; color:black; font-weight:bold;">WELLINGTON COLLEGE</label>
+            </div>
+            <div class="form-group p-2  text-center" style="margin-top:10px;">
+                <label style="font-size:2em; color:black; font-weight:bold;">INTERNATIONAL</label>
+            </div>
+            <div class="form-group p-2  text-center" style="margin-top:10px;">
+                <label style="font-size:2em; color:black; font-weight:bold;">SHANGHAI</label>
+            </div>
+            <div class="form-group p-2  text-center" style="margin-top:10px;">
+                <label style="font-size:2em; color:black; font-weight:bold;">PM2.5 Monitoring System</label>
+            </div>
+            <div class="form-group p-2">
+                <a id="btnSignInOffice365" asp-controller="Home" asp-action="SignIn" class="btn Wellington-Blue btn-lg btn-block "> Sign in with Office 365</a>
+            </div>
+        </div>
+        <!-- END login-content -->
+    </div>
+</form>

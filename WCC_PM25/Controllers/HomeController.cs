@@ -22,10 +22,17 @@ namespace WCC_PM25.Controllers
         {
             return View();
         }
+
+        public IActionResult Login()
+        {
+            return View();
+        }
+
         public IActionResult Default()
         {
             return View();
         }
+
         public IActionResult Privacy()
         {
             return View();

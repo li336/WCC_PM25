@@ -356,3 +356,4 @@
 /Users/cyr/Desktop/WCC_PM25/WCC_PM25/obj/Debug/net5.0/WCC_PM25.pdb
 /Users/cyr/Desktop/WCC_PM25/WCC_PM25/obj/Debug/net5.0/WCC_PM25.genruntimeconfig.cache
 /Users/cyr/Desktop/WCC_PM25/WCC_PM25/obj/Debug/net5.0/WCC_PM25.csprojAssemblyReference.cache
+/Users/cyr/Desktop/WCC_PM25/WCC_PM25/obj/Debug/net5.0/Razor/Views/Common/Login.cshtml.g.cs
